@@ -12,11 +12,11 @@ A arquitetura de dados para este projeto segue as camadas Bronze, Silver e Gold 
 3. **Camada Gold:** Abriga dados prontos para os negócios, modelados em um esquema em estrela necessário para relatórios e análises.
 
 # 🚀 Requisitos do Projeto
-# Construindo o Data Warehouse (Engenharia de dados)
-## Objetivo
+ **Construindo o Data Warehouse (Engenharia de dados)**
+**Objetivo**
 Desenvolver um data warehouse moderno usando o SQL Server para consolidar os dados de vendas, permitindo a geração de relatórios analíticos e a tomada de decisões informadas.
 
-## Especificações
+ **Especificações**
 * Fontes de dados: Importar dados de dois sistemas de origem (ERP e CRM) fornecidos como arquivos CSV.
 * Qualidade dos dados: Limpar e resolver problemas de qualidade de dados antes da análise.
 * Integração: Combinar as duas fontes em um modelo de dados único e fácil de usar, projetado para consultas analíticas.
