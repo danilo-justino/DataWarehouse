@@ -13,6 +13,7 @@ A arquitetura de dados para este projeto segue as camadas Bronze, Silver e Gold 
 
 # 🚀 Requisitos do Projeto
  **Construindo o Data Warehouse (Engenharia de dados)**
+ 
 **Objetivo**
 Desenvolver um data warehouse moderno usando o SQL Server para consolidar os dados de vendas, permitindo a geração de relatórios analíticos e a tomada de decisões informadas.
 
