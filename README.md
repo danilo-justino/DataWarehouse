@@ -5,7 +5,7 @@ Data Warehouse SQL Server
 # 🏗️ Arquitetura de Dados
 A arquitetura de dados para este projeto segue as camadas Bronze, Silver e Gold da Arquitetura Medallion:
 
-![image](https://github.com/user-attachments/assets/e50e7cfe-835a-4a12-9261-bb47831417d2)
+![image](https://github.com/user-attachments/assets/67dc365e-0469-4ba8-80c5-949d8b7051f0)
 
 
 1. **Camada Bronze:** Armazena dados brutos no estado em que se encontram nos sistemas de origem. Os dados são ingeridos de arquivos CSV para o banco de dados do SQL Server.
