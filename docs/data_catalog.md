@@ -1,4 +1,4 @@
-# Data Catalog for Gold Layer
+# Data Catalog para a camada Gold 
 
 ## Overview
 A camada Gold é a representação de dados em nível empresarial, estruturada para dar suporte a casos de uso analíticos e de relatórios. Ela consiste em **tabelas dimensões** e **tabela fato** para métricas comerciais específicas.
