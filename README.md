@@ -1,6 +1,6 @@
-# DataWarehouse
-Data Warehouse SQL Server
-
+# Data Warehouse and Analytics Project
+Bem-vindo ao repositório do Data Warehouse and Analytics Project! 🚀
+Este projeto demonstra uma solução abrangente de data warehouse e análise, desde a criação de um data warehouse até a geração de insights acionáveis. Concebido como um projeto de portfólio, ele destaca as práticas recomendadas do setor em engenharia de dados e análise.
 
 # 🏗️ Arquitetura de Dados
 A arquitetura de dados para este projeto segue as camadas Bronze, Silver e Gold da Arquitetura Medallion:
@@ -24,3 +24,13 @@ Desenvolver um data warehouse moderno usando o SQL Server para consolidar os dad
 * Integração: Combinar as duas fontes em um modelo de dados único e fácil de usar, projetado para consultas analíticas.
 * Escopo: Concentre-se apenas no conjunto de dados mais recente; a historização dos dados não é necessária.
 * Documentação: Forneçer uma documentação clara do modelo de dados para dar suporte às partes interessadas do negócio e as equipes de análise.
+
+# BI: Analytics & Reporting (Análise de dados)
+**Objetivo**
+Desenvolver análises baseadas em SQL para fornecer insights detalhados sobre:
+
+* **Comportamento do cliente**
+* **Desempenho do produto**
+* **Tendências de vendas**
+
+Esses insights capacitam as partes interessadas com as principais métricas de negócios, permitindo a tomada de decisões estratégicas.
